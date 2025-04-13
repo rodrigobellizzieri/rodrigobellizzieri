@@ -19,6 +19,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" title="Git"/>
 </p>
 
+<!-- Certification Badges -->
+<h2 align="center">📜 Certifications</h2>
+<p align="center">
+  <a href="https://www.credly.com/badges/33cea8e6-b559-4cc4-8182-0413a489b4dc/public_url" target="_blank" title="Verificar Certificação AWS CCP">
+    <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Cloud-Practitioner_badge_150x150.17da917fbddc5383838d9f8209d2030c8d99f31e.png" width="120" alt="AWS CCP"/>
+  </a>
+</p>
+
 ---
 
 ## 🧠 About Me
